@@ -46,7 +46,7 @@ export default function Navbar() {
           <div className="hidden md:flex md:items-center md:space-x-4">
             <Link href="/" className="text-sm font-medium hover:text-primary">Dashboard</Link>
             <Link href="/UrlScanner" className="text-sm font-medium hover:text-primary">URL Scanner</Link>
-            <Link href="/file-scanne" className="text-sm font-medium hover:text-primary">File Scanner</Link>
+            <Link href="/file-scanner" className="text-sm font-medium hover:text-primary">File Scanner</Link>
             <Link href="/ip-lookup" className="text-sm font-medium hover:text-primary">IP Lookup</Link>
             
           </div>

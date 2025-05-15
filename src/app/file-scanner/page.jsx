@@ -28,7 +28,7 @@ const HomePage = () => {
       const formData = new FormData();
       formData.append("file", file);
 
-      const res = await fetch("/api/test", {
+      const res = await fetch("/api/file-scan", {
         method: "POST",
         body: formData,
       });

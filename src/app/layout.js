@@ -6,7 +6,7 @@ import Sidebar from '@/components/layout/Sidebar';
 import { ThemeProvider } from '@/contexts/ThemeContext';
 
 export const metadata = {
-  title: 'SecureScan',
+  title: 'scan-lab',
   description: 'A powerful dashboard for security and IP scanning.',
 };
 

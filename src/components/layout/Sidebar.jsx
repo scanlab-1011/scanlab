@@ -26,11 +26,7 @@ const sidebarItems = [
     icon: <Network className="h-5 w-5" />,
     path: '/ip-lookup',
   },
-  {
-    name: 'Scan History',
-    icon: <Shield className="h-5 w-5" />,
-    path: '/scan-history',
-  },
+  
 ];
 
 export default function Sidebar() {

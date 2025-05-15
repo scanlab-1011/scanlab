@@ -48,7 +48,7 @@ export default function Navbar() {
             <Link href="/UrlScanner" className="text-sm font-medium hover:text-primary">URL Scanner</Link>
             <Link href="/file-scanne" className="text-sm font-medium hover:text-primary">File Scanner</Link>
             <Link href="/ip-lookup" className="text-sm font-medium hover:text-primary">IP Lookup</Link>
-            <Link href="/scan-history" className="text-sm font-medium hover:text-primary">History</Link>
+            
           </div>
 
           {/* Theme Toggle & Mobile Menu Button */}
